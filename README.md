@@ -16,7 +16,9 @@ This project presents a smart traffic control system using AI and computer visio
 
 ## 🖼️ GUI Preview
 
-<img src="signals_result.png" width="300">
+<img src="gui_preview.png" width="600">
+
+
 
 
 ---
