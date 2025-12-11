@@ -9,7 +9,8 @@ This project presents a smart traffic control system using AI and computer visio
 📊 Dynamic green signal duration based on traffic density
 
 🖥️ GUI Preview
-Signals Screenshot
+<img src="signals_result.png" width="300">
+
 
 📂 Project Structure
 ├── main.py                  # Main GUI interface
