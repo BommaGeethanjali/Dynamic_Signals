@@ -16,12 +16,15 @@ This project presents a smart traffic control system using AI and computer visio
 
 ## 🖼️ GUI Preview
 
-<img src="signals_result.png" width="250">
+<img src="signals_result.png" width="300">
+
 
 ---
 
 ## 📁 Project Structure
 
+
+```
 |-- main.py                 # Main GUI interface
 |-- vehicle_detection.py    # Vehicle detection logic with YOLOv8
 |-- centroid_tracker.py     # Centroid Tracker for tracking vehicles across frames
@@ -31,3 +34,5 @@ This project presents a smart traffic control system using AI and computer visio
 |-- yolov3.cfg              # YOLO config
 |-- yolov3.weights          # YOLO weights
 |-- README.md               # This file
+```
+
